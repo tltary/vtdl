@@ -1,0 +1,831 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"coin",
+				"coin_url"
+			],
+			[
+				"tpl",
+				"tpl"
+			],
+			[
+				"prin",
+				"printf"
+			],
+			[
+				"arr",
+				"arrNew"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"btn-",
+				"btn-primary"
+			],
+			[
+				"cart__t",
+				"cart__item__price"
+			],
+			[
+				"pri",
+				"privacy__item"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"new",
+				"new-product"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"cla",
+				"calendar"
+			],
+			[
+				"data",
+				"data_array"
+			],
+			[
+				"ca",
+				"calendarId"
+			],
+			[
+				"b",
+				"b_mouth"
+			],
+			[
+				"orde",
+				"orderConfirmed"
+			],
+			[
+				"fi",
+				"fixedScroll"
+			],
+			[
+				"account__bonus",
+				"account__bonus__bubl"
+			],
+			[
+				"account__bo",
+				"account__bonus__card__note"
+			],
+			[
+				"lin",
+				"link--default"
+			],
+			[
+				"account__bonu",
+				"account__bonus__bubl"
+			],
+			[
+				"account__order__",
+				"account__order__block__title"
+			],
+			[
+				"account__e",
+				"account__evaluation__block__text"
+			],
+			[
+				"acc",
+				"account__order__message__text"
+			],
+			[
+				"a",
+				"account__order__message--sent"
+			],
+			[
+				"account_",
+				"account__order__status--indent"
+			],
+			[
+				"acco",
+				"account__order__status--indent"
+			],
+			[
+				"account__or",
+				"account__order__status__text"
+			],
+			[
+				"pa",
+				"placeholder\tAttr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pro",
+				"product_slider__back"
+			],
+			[
+				"link",
+				"link--arrow"
+			],
+			[
+				"produ",
+				"product__info"
+			],
+			[
+				"pr",
+				"product__title"
+			],
+			[
+				"pru",
+				"product__description"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"col-md-off",
+				"col-md-offset-2"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"filter",
+				"filter_count"
+			],
+			[
+				"ga",
+				"game_storage"
+			],
+			[
+				"привет",
+				"ПриветТур"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"Game",
+				"game_storage"
+			],
+			[
+				"ti",
+				"title_block"
+			],
+			[
+				"text",
+				"text_block"
+			],
+			[
+				"ar",
+				"array_title"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"filter_",
+				"filter_select"
+			],
+			[
+				"col-",
+				"col-lg-12"
+			],
+			[
+				"check",
+				"check"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"code",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"co",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"editor",
+				"Snippet: editorconfig"
+			],
+			[
+				"edi",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"ed",
+				"Snippet: editorconfig"
+			],
+			[
+				"code f",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"cod",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"liver",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"fil",
+				"SublimeZilla: Import FileZilla Server"
+			],
+			[
+				"filz",
+				"SublimeZilla: Import FileZilla Server"
+			],
+			[
+				"install ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/user/Desktop/vuejs-tdlist/vuejs-tdl/README.md",
+		"/Users/user/Desktop/vuejs-tdlist/vuejs-tdl/package.json",
+		"/Users/user/Desktop/vuejs-tdlist/vuejs-tdl/package-lock.json",
+		"/Users/user/Desktop/vuejs-tdlist/vuejs-tdl/index.html",
+		"/Users/user/Desktop/vuejs-tdlist/vuejs-tdl/.postcssrc.js",
+		"/Users/user/Desktop/vuejs-tdlist/vuejs-tdl/.gitignore",
+		"/Users/user/Desktop/vuejs-tdlist/vuejs-tdl/.editorconfig",
+		"/Users/user/Desktop/vuejs-tdlist/vuejs-tdl/.babelrc",
+		"/Users/user/Desktop/vuejs-tdlist/vuejs-tdl/index.sublime-workspace",
+		"/Users/user/Downloads/rdzpybpo_ever (5).sql",
+		"/Users/user/Downloads/tradisys-dices-dapp-bot-master/src/App.vue",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/index.php",
+		"/Users/user/Downloads/rdzpybpo_ever (22).sql",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/_modal.scss",
+		"/Users/user/Downloads/imaxoil_for_anton/Group 202.svg",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/index.scss",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/tech.js",
+		"/Users/user/Desktop/vitalya/index.html",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/main.js",
+		"/Users/user/Desktop/webpack/index.html",
+		"/Users/user/Desktop/pobeda/package.json",
+		"/Users/user/Desktop/pobeda/webpack.config.js",
+		"/Users/user/Desktop/pobeda/dist/bundle.js",
+		"/Users/user/Desktop/pobeda/src/js/main.js",
+		"/Users/user/Downloads/imaxoil_for_anton/package.json",
+		"/Users/user/Downloads/imaxoil_for_anton/dist/bundle.js",
+		"/Applications/MAMP/htdocs/xhr.html",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/cors.php",
+		"/Applications/MAMP/htdocs/src/js/xhr.html",
+		"/Users/user/Desktop/xhr.html",
+		"/Applications/xhr.html",
+		"/Applications/MAMP/htdocs/account_data.html",
+		"/Applications/MAMP/htdocs/src/scss/.gitignore",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/account_setting.tpl",
+		"/Users/user/Desktop/privet_game/dist/main.css",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/main.css",
+		"/Users/user/Desktop/privet_game/src/scss/base.scss",
+		"/Users/user/Downloads/transaction (21).sql",
+		"/Users/user/Desktop/node_hrm/server.js",
+		"/Users/user/Desktop/node_hrm/package.json",
+		"/Users/user/Desktop/waves_api/package.json",
+		"/Users/user/Desktop/privet_game/src/scss/components/owl.carousel.min.css",
+		"/Users/user/Desktop/privet_game/src/js/owl.carousel.min.js",
+		"/Users/user/Desktop/privet_game/how.html",
+		"/Users/user/Downloads/1440x1050.svg",
+		"/Users/user/Desktop/privet_game/privacy.html",
+		"/Users/user/Downloads/block_1_back_2.1.svg",
+		"/Users/user/Downloads/transaction (15).sql",
+		"/Users/user/Desktop/webpack/src/scss/components/bootstrap/_variables.scss",
+		"/Users/user/Desktop/webpack/src/scss/base.scss",
+		"/Users/user/Desktop/webpack/src/app.js",
+		"/Users/user/Downloads/transaction (12).sql",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/api.php",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/api.js",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/index 2.php",
+		"/Users/user/Desktop/блокировака",
+		"/Users/user/Downloads/argon-dashboard-master/index.html",
+		"/Users/user/Downloads/argon-dashboard-master/examples/login.html",
+		"/Users/user/Downloads/argon-dashboard-master/examples/icons.html",
+		"/Users/user/Desktop/node_hrm/views/app/auth.tpl",
+		"/Users/user/Desktop/node_hrm/src/scss/base.scss",
+		"/Users/user/Desktop/node_hrm/views/app/task.tpl",
+		"/Users/user/Downloads/paper-dashboard-master/examples/dashboard.html",
+		"/Users/user/Desktop/node_hrm/src/scss/components/dashboard.css",
+		"/Users/user/Desktop/node_hrm/config/db.js",
+		"/Users/user/Desktop/node_hrm/.gitignore",
+		"/Users/user/Desktop/node_hrm/views/app/index.tpl",
+		"/Users/user/Desktop/node_hrm/api/routes/user_routes.js",
+		"/Users/user/Desktop/node_hrm/api/routes/note_routes.js",
+		"/Users/user/Desktop/node_hrm/api/routes/index.js",
+		"/Users/user/Desktop/node_hrm/views/app/index.html",
+		"/Users/user/Desktop/node_hrm/views/app/auth.html",
+		"/Users/user/Desktop/node_hrm/src/js/main.js",
+		"/Users/user/Desktop/node_hrm/app/auth.html",
+		"/Users/user/Desktop/pobeda/index.html",
+		"/Users/user/Desktop/node_hrm/app/routes/note_routes.js",
+		"/Users/user/Desktop/node_hrm/app/routes/user_routes.js",
+		"/Users/user/Desktop/node_hrm/app/routes/index.js",
+		"/Applications/MAMP/htdocs/src/scss/base.scss",
+		"/Users/user/Desktop/node_hrm/src/app.js",
+		"/Users/user/Desktop/node_hrm_mysql/server.js",
+		"/Users/user/Desktop/node_hrm_mysql/package.json",
+		"/Users/user/Downloads/transaction (1).sql",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/order.js",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/account_order.tpl",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/_account.scss",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/scss_component.php",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/Compiler.php",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/app_controller.php",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/SourceMapGenerator.php",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/basket_app_controller.php",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/index.js",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/index.tpl",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/orderConfirmed.tpl",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/.editorConfig",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/catalog_app_controller.php",
+		"/Applications/MAMP/htdocs/account_order.html",
+		"/Applications/MAMP/htdocs/text.html",
+		"/Applications/MAMP/htdocs/texts.html",
+		"/Applications/MAMP/htdocs/account_evaluation.html",
+		"/Applications/MAMP/htdocs/product.html",
+		"/Applications/MAMP/htdocs/src/js/main.js",
+		"/Applications/MAMP/htdocs/catalog.html",
+		"/Applications/MAMP/htdocs/index.html",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/product.js",
+		"/Applications/MAMP/htdocs/src/app.js",
+		"/Applications/MAMP/htdocs/account_orders.html",
+		"/Applications/MAMP/htdocs/account_bonus.html",
+		"/Applications/MAMP/htdocs/src/scss/texts.html",
+		"/Users/user/Downloads/card_bonus.svg",
+		"/Users/user/Downloads/transaction (2).sql",
+		"/Users/user/Desktop/rollup/rollup.config.js",
+		"/Applications/MAMP/htdocs/index.js",
+		"/Applications/MAMP/htdocs/package.json",
+		"/Users/user/Desktop/gildiya_hrm/index.js",
+		"/Users/user/Downloads/transaction.sql",
+		"/Applications/MAMP/htdocs/account_evaluations.html",
+		"/Applications/MAMP/htdocs/account_favorite.html",
+		"/Applications/MAMP/htdocs/account.html",
+		"/private/var/folders/s5/n51z7cz95s5d9z9pxf6_z0zh0000gn/T/fz3temp-2/layout.tpl",
+		"/Users/user/Downloads/Frame.svg",
+		"/Users/user/Desktop/pobeda/account_main.html",
+		"/Users/user/Desktop/pobeda/src/scss/base.scss",
+		"/Users/user/Desktop/pobeda/catalog.html",
+		"/Users/user/Desktop/pobeda/Dockerfile",
+		"/Users/user/Desktop/pobeda/.dockerignore",
+		"/Users/user/Desktop/pobeda/server.js",
+		"/Users/user/Desktop/pobeda/product.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"('50', '",
+			"('300', '",
+			"('100', '",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"', '300'),",
+			"', '100'),",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"('100', '",
+			"('300', '",
+			"('50', '",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),",
+			"', '100'),",
+			"', '300'),",
+			"', '50'),"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"INSERT INTO `cashgo` (`login`, `sum`, `txt`, `date`) VALUES ('",
+			"', '2', 'Приход с \\\"Пакет 100$\\\"', '2019-07-07 01:00:00');",
+			"', '12', 'Приход с \\\"Пакет 300$\\\"', '2019-07-07 01:00:00');",
+			"', '0,75', 'Приход с \\\"Пакет 50$\\\"', '2019-07-07 01:00:00');",
+			"';",
+			"UPDATE `user` SET `balance`=`balance`+'2' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'12' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'0.75' WHERE `login`='",
+			"INSERT INTO `cashgo` (`login`, `sum`, `txt`, `date`) VALUES ('",
+			"', '2', 'Приход с \\\"Пакет 100$\\\"', '2019-07-06 01:00:00');",
+			"', '12', 'Приход с \\\"Пакет 300$\\\"', '2019-07-06 01:00:00');",
+			"', '0,75', 'Приход с \\\"Пакет 50$\\\"', '2019-07-06 01:00:00');",
+			"';",
+			"UPDATE `user` SET `balance`=`balance`+'2' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'12' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'0.75' WHERE `login`='",
+			"INSERT INTO `cashgo` (`login`, `sum`, `txt`, `date`) VALUES ('",
+			"', '2', 'Приход с \\\"Пакет 100$\\\"', '2019-07-05 01:00:00');",
+			"', '12', 'Приход с \\\"Пакет 300$\\\"', '2019-07-05 01:00:00');",
+			"', '0,75', 'Приход с \\\"Пакет 50$\\\"', '2019-07-05 01:00:00');",
+			"';",
+			"UPDATE `user` SET `balance`=`balance`+'2' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'12' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'0.75' WHERE `login`='",
+			"';",
+			"UPDATE `user` SET `balance`=`balance`+'2' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'12' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'0.75' WHERE `login`='",
+			"INSERT INTO `cashgo` (`login`, `sum`, `txt`, `date`) VALUES ('",
+			"', '2', 'Приход с \\\"Пакет 100$\\\"', '2019-07-04 01:00:00');",
+			"', '12', 'Приход с \\\"Пакет 300$\\\"', '2019-07-04 01:00:00');",
+			"', '0,75', 'Приход с \\\"Пакет 50$\\\"', '2019-07-04 01:00:00');",
+			"INSERT INTO `cashgo` (`login`, `sum`, `txt`, `date`) VALUES ('",
+			"', '2', 'Приход с \\\"Пакет 100$\\\"', '2019-07-03 01:00:00');",
+			"', '12', 'Приход с \\\"Пакет 300$\\\"', '2019-07-03 01:00:00');",
+			"', '0,75', 'Приход с \\\"Пакет 50$\\\"', '2019-07-03 01:00:00');",
+			"';",
+			"UPDATE `user` SET `balance`=`balance`+'2' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'12' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'0.75' WHERE `login`='",
+			"';",
+			"UPDATE `user` SET `balance`=`balance`+'2' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'12' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'0.75' WHERE `login`='",
+			"INSERT INTO `cashgo` (`login`, `sum`, `txt`, `date`) VALUES ('",
+			"', '2', 'Приход с \\\"Пакет 100$\\\"', '2019-07-02 01:00:00');",
+			"', '12', 'Приход с \\\"Пакет 300$\\\"', '2019-07-02 01:00:00');",
+			"', '0,75', 'Приход с \\\"Пакет 50$\\\"', '2019-07-02 01:00:00');",
+			"';",
+			"UPDATE `user` SET `balance`=`balance`+'2' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'12' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'0.75' WHERE `login`='",
+			"INSERT INTO `cashgo` (`login`, `sum`, `txt`, `date`) VALUES ('",
+			"', '2', 'Приход с \\\"Пакет 100$\\\"', '2019-07-01 01:00:00');",
+			"', '12', 'Приход с \\\"Пакет 300$\\\"', '2019-07-01 01:00:00');",
+			"', '0,75', 'Приход с \\\"Пакет 50$\\\"', '2019-07-01 01:00:00');",
+			"INSERT INTO `cashgo` (`login`, `sum`, `txt`, `date`) VALUES ('",
+			"', '2', 'Приход с \\\"Пакет 100$\\\"', '2019-06-30 01:00:00');",
+			"', '12', 'Приход с \\\"Пакет 300$\\\"', '2019-06-30 01:00:00');",
+			"', '0,75', 'Приход с \\\"Пакет 50$\\\"', '2019-06-30 01:00:00');",
+			"';",
+			"UPDATE `user` SET `balance`=`balance`+'2' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'12' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'0.75' WHERE `login`='",
+			"INSERT INTO `cashgo` (`login`, `sum`, `txt`, `date`) VALUES ('",
+			"', '2', 'Приход с \\\"Пакет 100$\\\"', '2019-06-29 01:00:00');",
+			"', '12', 'Приход с \\\"Пакет 300$\\\"', '2019-06-29 01:00:00');",
+			"', '0,75', 'Приход с \\\"Пакет 50$\\\"', '2019-06-29 01:00:00');",
+			"';",
+			"UPDATE `user` SET `balance`=`balance`+'2' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'12' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'0.75' WHERE `login`='",
+			"INSERT INTO `cashgo` (`login`, `sum`, `txt`, `date`) VALUES ('",
+			"', '2', 'Приход с \\\"Пакет 100$\\\"', '2019-06-28 01:00:00');",
+			"', '12', 'Приход с \\\"Пакет 300$\\\"', '2019-06-28 01:00:00');",
+			"', '0,75', 'Приход с \\\"Пакет 50$\\\"', '2019-06-28 01:00:00');",
+			"';",
+			"UPDATE `user` SET `balance`=`balance`+'2' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'12' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'0.75' WHERE `login`='",
+			"INSERT INTO `cashgo` (`login`, `sum`, `txt`, `date`) VALUES ('",
+			"', '2', 'Приход с \\\"Пакет 100$\\\"', '2019-06-27 01:00:00');",
+			"', '12', 'Приход с \\\"Пакет 300$\\\"', '2019-06-27 01:00:00');",
+			"', '0,75', 'Приход с \\\"Пакет 50$\\\"', '2019-06-27 01:00:00');",
+			"';",
+			"UPDATE `user` SET `balance`=`balance`+'2' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'12' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'0.75' WHERE `login`='",
+			"';",
+			"UPDATE `user` SET `balance`=`balance`+'2' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'12' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'0.75' WHERE `login`='",
+			"INSERT INTO `cashgo` (`login`, `sum`, `txt`, `date`) VALUES ('",
+			"', '2', 'Приход с \\\"Пакет 100$\\\"', '2019-06-26 01:00:00');",
+			"', '12', 'Приход с \\\"Пакет 300$\\\"', '2019-06-26 01:00:00');",
+			"', '0,75', 'Приход с \\\"Пакет 50$\\\"', '2019-06-26 01:00:00');",
+			"INSERT INTO `cashgo` (`login`, `sum`, `txt`, `date`) VALUES ('",
+			"', '2', 'Приход с \\\"Пакет 00$\\\"', '2019-06-25 01:00:00');",
+			"', '12', 'Приход с \\\"Пакет 300$\\\"', '2019-06-25 01:00:00');",
+			"', '0,75', 'Приход с \\\"Пакет 50$\\\"', '2019-06-25 01:00:00');",
+			"';",
+			"UPDATE `user` SET `balance`=`balance`+'2' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'12' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'0.75' WHERE `login`='",
+			"INSERT INTO `cashgo` (`login`, `sum`, `txt`, `date`) VALUES ('",
+			"', '2', 'Приход с \\\"Пакет 100$\\\"', '2019-06-24 01:00:00');",
+			"', '12', 'Приход с \\\"Пакет 300$\\\"', '2019-06-24 01:00:00');",
+			"', '0,75', 'Приход с \\\"Пакет 50$\\\"', '2019-06-24 01:00:00');",
+			"';",
+			"UPDATE `user` SET `balance`=`balance`+'2' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'12' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'0.75' WHERE `login`='",
+			"';",
+			"UPDATE `user` SET `balance`=`balance`+'2' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'12' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'0.75' WHERE `login`='",
+			"INSERT INTO `cashgo` (`login`, `sum`, `txt`, `date`) VALUES ('",
+			"', '2', 'Приход с \\\"Пакет 100$\\\"', '2019-06-23 01:00:00');",
+			"', '12', 'Приход с \\\"Пакет 300$\\\"', '2019-06-23 01:00:00');",
+			"', '0,75', 'Приход с \\\"Пакет 50$\\\"', '2019-06-23 01:00:00');",
+			"INSERT INTO `cashgo` (`login`, `sum`, `txt`, `date`) VALUES ('",
+			"', '2', 'Приход с \\\"Пакет 100$\\\"', '2019-06-22 01:00:00');",
+			"', '12', 'Приход с \\\"Пакет 300$\\\"', '2019-06-22 01:00:00');",
+			"', '0,75', 'Приход с \\\"Пакет 50$\\\"', '2019-06-22 01:00:00');",
+			"';",
+			"UPDATE `user` SET `balance`=`balance`+'2' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'12' WHERE `login`='",
+			"UPDATE `user` SET `balance`=`balance`+'0.75' WHERE `login`='"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "vjtdl.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 390.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
